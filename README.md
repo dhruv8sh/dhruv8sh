@@ -4,6 +4,23 @@
 <h3 align="center">
   This is DHRUV8SH
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+<div id="badges">
+  <a href="https://linkedin.com/in/dhruv8sh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/dhruv8sh">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/dhruv8sh">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <p>
+</div>
+  <h4 align="center">
+  Glad to see you here!
+  <img src="https://komarev.com/ghpvc/?username=dhruv8sh&style=flat-square&color=blue" alt="" />
+</h4>
 </h3>
 
 <div id="Archisgod" align="center">
@@ -18,7 +35,7 @@ I have worked on Java for 6 years now and am learning design patterns currently.
 
 Reach me if you want to collab for some innovative project.
 
-## The tech I use...
+### The tech I use...
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,6 +52,7 @@ Reach me if you want to collab for some innovative project.
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Blender" width="40" height="40"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv8sh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv8sh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
   
   Did I mention? That I use...
@@ -45,5 +63,4 @@ Reach me if you want to collab for some innovative project.
    
    
 ![](https://hit.yhype.me/github/profile?user_id=67322047)
-<img src="https://komarev.com/ghpvc/?username=dhruv8sh&style=flat-square&color=blue" alt="" />
 </div>

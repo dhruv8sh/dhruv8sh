@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://media1.giphy.com/media/LXVOyvjumP7XgrK0aS/giphy.gif?cid=ecf05e47lapqovat9171g1ooi6jmszfte961zcqf5c4si5n4&rid=giphy.gif&ct=s" width="150"/>
 </div>
-
-##### Hey
 <h3 align="center">
   This is DHRUV8SH
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

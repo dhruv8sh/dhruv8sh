@@ -19,7 +19,7 @@
 </div>
   <h3 align="center">
   Glad to see you here!
-  <img src="https://komarev.com/ghpvc/?username=dhruv8sh&style=flat-square&color=blue" alt="" />
+  <!--img src="https://komarev.com/ghpvc/?username=dhruv8sh&style=flat-square&color=blue" alt="" /-->
 </h3>
 </h3>
 
